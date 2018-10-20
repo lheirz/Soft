@@ -1,4 +1,4 @@
-#Primegit rRepositorio
+#Primer Repositorio
 Prueba
 
 Nueva prueba
